@@ -1,0 +1,11 @@
+server {
+    listen 80;
+    server_name company.local www.company.local;
+
+    root /var/www/company.local/html;
+    index index.html;
+
+    location / {
+        try_files $uri $uri/ =404;
+    }
+}

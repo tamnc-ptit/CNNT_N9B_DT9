@@ -1,0 +1,7 @@
+﻿*.vmdk
+*.vmem
+*.iso
+*.tar.gz
+*.zip
+*.mp4
+Thumbs.db
