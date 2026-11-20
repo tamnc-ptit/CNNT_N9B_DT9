@@ -1,0 +1,2 @@
+﻿192.168.243.100   company.local www.company.local
+192.168.243.100   internal.company.local
