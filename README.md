@@ -2,7 +2,7 @@
 
 * **Học phần:** Điện toán đám mây và Ảo hóa (`RIPT1304-20261-02`) – Học viện Công nghệ Bưu chính Viễn thông (PTIT)
 * **Nhóm thực hiện:** Nhóm 9B
-
+* **Link GitHub:** https://github.com/tamnc-ptit/CNNT_N9B_DT9.git
 
 ---
 
